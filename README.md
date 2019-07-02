@@ -8,6 +8,6 @@ In your terminal ssh -i /path/my-key-pair.pem ec2-user@ec2-198-51-100-1.compute-
 ![alt text](https://github.com/Priyarag/ec2connection/blob/master/Screen%20Shot%202019-07-01%20at%207.23.10%20PM.png)
 Once the ec2 connection is established , install all the dependencies needed for your flask app (use sudo yum install)
 Create your flask app by using nano app.py like the example below:
-![alt text] (https://github.com/Priyarag/ec2connection/blob/master/Screen%20Shot%202019-07-01%20at%207.24.35%20PM.png)
+![alt text](https://github.com/Priyarag/ec2connection/blob/master/Screen%20Shot%202019-07-01%20at%207.24.35%20PM.png)
 
 
